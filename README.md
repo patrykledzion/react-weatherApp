@@ -1,2 +1,3 @@
 # react-weatherApp
-![image](https://github.com/user-attachments/assets/48e91f16-1df4-43a6-b55f-2f1f79a4a6ab)
+![image](https://github.com/user-attachments/assets/186cb7c2-8ed2-4bd5-a89e-184f2a9366dd)
+
